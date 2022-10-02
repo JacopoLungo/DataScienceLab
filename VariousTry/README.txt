@@ -1,1 +1,1 @@
-Prove Varie per testare codici e soluzioni
+Prove Varie per testare codici e soluzioni.
